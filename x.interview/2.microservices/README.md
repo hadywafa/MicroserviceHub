@@ -30,40 +30,40 @@
 
 ## 5️⃣ Security
 
-**17. Auth at the Edge** – OAuth2/OIDC via API Gateway.
-**18. Service-to-Service Security** – JWTs, mTLS, zero trust.
+**17. Auth at the Edge** – OAuth2/OIDC via API Gateway.  
+**18. Service-to-Service Security** – JWTs, mTLS, zero trust.  
 **19. Secrets Management** – Key Vault, Secrets Manager, Vault.
 
 ## 6️⃣ Observability
 
-**20. Structured Logging** – Centralized JSON logs + correlation IDs.
-**21. Metrics & Health Checks** – RED/USE metrics, /health endpoints.
+**20. Structured Logging** – Centralized JSON logs + correlation IDs.  
+**21. Metrics & Health Checks** – RED/USE metrics, /health endpoints.  
 **22. Distributed Tracing** – OpenTelemetry, Jaeger, App Insights.
 
 ## 7️⃣ Deployment & Scaling
 
-**23. Containers & Docker** – Why every service runs in a container.
-**24. Kubernetes Basics** – Deployments, services, ingresses, probes.
-**25. Scaling Patterns** – Horizontal scaling, HPA, KEDA for queue-based scaling.
+**23. Containers & Docker** – Why every service runs in a container.  
+**24. Kubernetes Basics** – Deployments, services, ingresses, probes.  
+**25. Scaling Patterns** – Horizontal scaling, HPA, KEDA for queue-based scaling.  
 **26. Service Mesh** – Istio/Linkerd for advanced routing, retries, mTLS.
 
 ## 8️⃣ Testing & Delivery
 
-**27. Unit & Integration Testing** – Test per service, with real DB/broker (Testcontainers).
-**28. Consumer-Driven Contracts** – Pact to avoid breaking clients.
-**29. End-to-End & Chaos Testing** – Full journey + resilience checks.
+**27. Unit & Integration Testing** – Test per service, with real DB/broker (Testcontainers).  
+**28. Consumer-Driven Contracts** – Pact to avoid breaking clients.  
+**29. End-to-End & Chaos Testing** – Full journey + resilience checks.  
 **30. Release Strategies** – Blue/Green, Canary, Feature Flags.
 
 ## 9️⃣ Performance & Caching
 
-**31. Cache Patterns** – Cache-aside, write-through, write-behind.
-**32. Load Leveling** – Queue buffering for traffic spikes.
+**31. Cache Patterns** – Cache-aside, write-through, write-behind.  
+**32. Load Leveling** – Queue buffering for traffic spikes.  
 **33. DB Migration Patterns** – Expand/contract to avoid downtime.
 
 ## 🔟 Advanced & Anti-Patterns
 
-**34. Polyglot Persistence** – Mixing SQL, NoSQL, search engines.
-**35. Microservices Anti-Patterns** – Nano-services, shared DBs, chatty sync calls.
+**34. Polyglot Persistence** – Mixing SQL, NoSQL, search engines.  
+**35. Microservices Anti-Patterns** – Nano-services, shared DBs, chatty sync calls.  
 **36. Future Trends** – Dapr, serverless microservices, event-driven everything.
 
 ---
