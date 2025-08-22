@@ -23,9 +23,9 @@
 
 ## 4️⃣ Reliability & Resilience
 
-**13. Timeouts & Retries** – Never wait forever, retry safely.
-**14. Circuit Breaker** – Stop cascading failures.
-**15. Bulkheads & Isolation** – Limit blast radius of failures.
+**13. Timeouts & Retries** – Never wait forever, retry safely.  
+**14. Circuit Breaker** – Stop cascading failures.  
+**15. Bulkheads & Isolation** – Limit blast radius of failures.  
 **16. Idempotency Keys** – Safe retries for payments and POST requests.
 
 ## 5️⃣ Security
